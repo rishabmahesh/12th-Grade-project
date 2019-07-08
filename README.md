@@ -4,7 +4,7 @@
 
 Inspired by e-travel websites like makemytrip, me and my partner created a C++ project similar to a travel website.
 The project has 5 trip offers (namely: God's own country (kerela), The Westcoast Ride (Mumbai, Goa, Mangalore, Kochi, Allepey), The Golden Triangle (Agra, Delhi, Jaipur), The Hillside Fun (Shimla, Jammu and Kashmir, Srinagar, Dehradun), and Enjoy The Sunset.
-Even though the locations are pre-planned, the customer has the freedom to choose the date, food, and tour guide. 
+Even though the locations are pre-planned, the customers have the freedom to choose the date, food, and tour guide. 
 
 Things used in this project: Files, Classes, Functions, Pointers, and Graphics. 
 
